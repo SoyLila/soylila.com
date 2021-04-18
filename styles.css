@@ -1,0 +1,15 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.lilac {
+    background-color: #C8A2C8;
+}
+
+.policy-container {
+    margin-top: 3rem;
+}
+
+.policy-text {
+    line-height: 2;
+}
