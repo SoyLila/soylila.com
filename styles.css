@@ -282,6 +282,20 @@ body {
         padding-top: 70px;
         padding-bottom: 45px;
     }
+
+    .info-article {
+        flex-wrap: wrap;
+    }
+
+    .info-app-img-container {
+        margin-left: 2rem;
+    }
+
+    .info-text-container {
+        padding-top: 4rem;
+        margin-right: 2rem;
+        width: 30%;
+    }
 }
 
 /* @media (min-width: 1280px) {
