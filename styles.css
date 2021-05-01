@@ -297,6 +297,9 @@ body {
     .banner-description {
         width: 40%;
     }
+    .banner-description-text {
+        font-size: 28px;
+    }
     .banner {
         padding-top: 4rem;
     }
@@ -313,8 +316,16 @@ body {
     .toggle-text-container {
         width: 40%;
         margin-left: 2rem;
-        padding-top: 70px;
-        padding-bottom: 45px;
+        padding-top: 150px;
+        padding-bottom: 135px;
+    }
+    .toggle-text {
+        font-size: 28px;
+    }
+
+    .info-section {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
     }
 
     .info-article {
@@ -330,6 +341,9 @@ body {
         margin-right: 2rem;
         width: 30%;
     }
+    .info-text {
+        font-size: 28px;
+    }
     .copyright-policy-container {
         width: 33.33%;
         margin-top: 0;
@@ -341,6 +355,9 @@ body {
         margin-top: 0;
         padding-bottom: 0;
         width: 300px;
+    }
+    .footer {
+        padding-top: 3rem;
     }
 }
 
