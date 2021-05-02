@@ -220,30 +220,6 @@ body {
     padding-bottom: 2rem;
 }
 
-/* @media (min-width: 320px) {
-    .title {
-        font-size: 26px;
-    }
-    .lila-container {
-        width: 100%;
-    }
-    .lila-img {
-        width: 100%;
-    }
-    .banner-container {
-        padding-left: 20px;
-    }
-    .banner {
-        flex-wrap: wrap-reverse;
-    }
-    .banner-title {
-        font-size: 32px;
-    }
-    .banner-description {
-        width: 100%;
-    }
-} */
-
 @media (min-width: 680px) {
     .lila-container {
         width: 50%;
@@ -305,6 +281,11 @@ body {
     }
     .banner-title {
         font-size: 56px;
+    }
+    .lets-talk {
+        font-size: 28px;
+        width: 350px;
+        height: 60px;
     }
     .toggle-section {
         align-items: center;
